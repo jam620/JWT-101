@@ -132,7 +132,7 @@ Hemos creado el usuario que vamos a usar para realizar el ataque
 
 <img src="img/11.png" alt="11" style="zoom:50%;" />
 
-Luego de foguearnos en el challenges capturamos la petición
+Luego de loguearnos en el challenges capturamos la petición
 
 ```
 GET /authentication/none HTTP/1.1
